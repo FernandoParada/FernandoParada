@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @FernandoParada, I currently work as a technical sourcer
+- 👀 I’m interested in ... learning some programming foundations
+- 🌱 I’m currently learning ... maybe Python & simple API usage?
+- 📫 How to reach me ... www.linkedin.com/in/lfernandoparada
