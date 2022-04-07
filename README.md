@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @FernandoParada, I currently work as a technical sourcer
-- 👀 I’m interested in ... learning some programming foundations
-- 🌱 I’m currently learning ... maybe Python & simple API usage?
-- 📫 How to reach me ... www.linkedin.com/in/lfernandoparada
+- message = """Hi, I’m @FernandoParada, I currently work as a Technical Sourcer
+- I’m interested in learning how to automate processes and collect, enrich, and visualize data
+- I’m currently learning python basics
+- My LinkedIn Page is www.linkedin.com/in/lfernandoparada"""
+- print(message)
